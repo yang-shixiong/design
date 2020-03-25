@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4ea4eb3-ed64-42ef-b4f8-387323b5ca8f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zc2wtMmgCNkEORYusykG2PqaTw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientFactoryMethod">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.module.Client" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.demo.Client" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientFactoryMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factoryMethod.ClientFactoryMethod" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientFactoryMethod" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ea4eb3-ed64-42ef-b4f8-387323b5ca8f" name="Default Changelist" comment="" />
+      <created>1585124303873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585124303873</updated>
+      <workItem from="1585124305762" duration="270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1760" y="355" key="#Project_Structure" timestamp="1585124345525">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state x="1760" y="355" key="#Project_Structure/0.23.2560.1330@0.23.2560.1330" timestamp="1585124345525" />
+    <state width="2518" height="380" key="GridCell.Tab.0.bottom" timestamp="1585124600439">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.bottom/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600439" />
+    <state width="2518" height="380" key="GridCell.Tab.0.center" timestamp="1585124600437">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.center/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600437" />
+    <state width="2518" height="380" key="GridCell.Tab.0.left" timestamp="1585124600437">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.left/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600437" />
+    <state width="2518" height="380" key="GridCell.Tab.0.right" timestamp="1585124600438">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.right/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600438" />
+  </component>
+</project>
