@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4ea4eb3-ed64-42ef-b4f8-387323b5ca8f" name="Default Changelist" comment="" />
+    <list default="true" id="a4ea4eb3-ed64-42ef-b4f8-387323b5ca8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ConcreteFactory1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ConcreteFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ConcreteProduct11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ConcreteProduct12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ConcreteProduct21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ConcreteProduct22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Product1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Product2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zc2wtMmgCNkEORYusykG2PqaTw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -23,17 +52,33 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="abstractFactory" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClientFactoryMethod">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="builder.module.Client" />
       <module name="design" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="builder.module.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstractFactory.Client" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.ClientFactoryMethod" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Client (1)" />
@@ -85,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585124303873</updated>
-      <workItem from="1585124305762" duration="270000" />
+      <workItem from="1585124305762" duration="1998000" />
     </task>
     <servers />
   </component>
@@ -97,21 +143,25 @@
       <screen x="0" y="23" width="2560" height="1330" />
     </state>
     <state x="1760" y="355" key="#Project_Structure/0.23.2560.1330@0.23.2560.1330" timestamp="1585124345525" />
-    <state width="2518" height="380" key="GridCell.Tab.0.bottom" timestamp="1585124600439">
+    <state x="2186" y="778" key="#com.intellij.ide.util.MemberChooser" timestamp="1585127109031">
       <screen x="0" y="23" width="2560" height="1330" />
     </state>
-    <state width="2518" height="380" key="GridCell.Tab.0.bottom/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600439" />
-    <state width="2518" height="380" key="GridCell.Tab.0.center" timestamp="1585124600437">
+    <state x="2186" y="778" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1330@0.23.2560.1330" timestamp="1585127109031" />
+    <state width="2518" height="380" key="GridCell.Tab.0.bottom" timestamp="1585127503812">
       <screen x="0" y="23" width="2560" height="1330" />
     </state>
-    <state width="2518" height="380" key="GridCell.Tab.0.center/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600437" />
-    <state width="2518" height="380" key="GridCell.Tab.0.left" timestamp="1585124600437">
+    <state width="2518" height="380" key="GridCell.Tab.0.bottom/0.23.2560.1330@0.23.2560.1330" timestamp="1585127503812" />
+    <state width="2518" height="380" key="GridCell.Tab.0.center" timestamp="1585127503812">
       <screen x="0" y="23" width="2560" height="1330" />
     </state>
-    <state width="2518" height="380" key="GridCell.Tab.0.left/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600437" />
-    <state width="2518" height="380" key="GridCell.Tab.0.right" timestamp="1585124600438">
+    <state width="2518" height="380" key="GridCell.Tab.0.center/0.23.2560.1330@0.23.2560.1330" timestamp="1585127503812" />
+    <state width="2518" height="380" key="GridCell.Tab.0.left" timestamp="1585127503811">
       <screen x="0" y="23" width="2560" height="1330" />
     </state>
-    <state width="2518" height="380" key="GridCell.Tab.0.right/0.23.2560.1330@0.23.2560.1330" timestamp="1585124600438" />
+    <state width="2518" height="380" key="GridCell.Tab.0.left/0.23.2560.1330@0.23.2560.1330" timestamp="1585127503811" />
+    <state width="2518" height="380" key="GridCell.Tab.0.right" timestamp="1585127503812">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state width="2518" height="380" key="GridCell.Tab.0.right/0.23.2560.1330@0.23.2560.1330" timestamp="1585127503812" />
   </component>
 </project>
