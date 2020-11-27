@@ -19,4 +19,5 @@ public class TESLAFactory extends Factory {
     public void buildPrice() {
         car.setPrice("30");
     }
+
 }

@@ -18,4 +18,5 @@ public interface AbstractFactory {
      * @return 产品实例2
      */
     Product2 newProduce2();
+
 }

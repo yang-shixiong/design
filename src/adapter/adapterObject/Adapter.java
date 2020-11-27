@@ -23,4 +23,5 @@ public class Adapter implements Target {
         adaptee.specificRequest();
         System.out.println("调用适配者结束");
     }
+
 }
