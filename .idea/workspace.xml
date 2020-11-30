@@ -20,27 +20,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4ea4eb3-ed64-42ef-b4f8-387323b5ca8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/director/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/director/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/director/ConcreteBuild1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/director/ConcreteBuild2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/director/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/director/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/director/ProductA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/Farm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/SGFarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/SRFarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/product/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/product/Cattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/product/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/product/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/product/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/abs/product/Vegetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protoType/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protoType/ConcreteProtoType1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/protoType/ProtoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommandA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommandB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/EmptyCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/ReceiverA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/ReceiverB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/SubSystem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/SubSystem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/SubSystem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/Flyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/FlyweightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flyweight/UnsharedConcreteFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interpreter/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interpreter/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interpreter/NonTerminalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interpreter/TerminalExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/ConcreteAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/ConcreteIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Colleague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ConcreteColleague1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ConcreteColleague2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/ConcreteObserver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/ConcreteObserver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/ConcreteSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/RealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/CglibObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/asm-commons.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/asm-tree.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/asm.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/cglib-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/DynamicRealSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/DynamicSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ConcreteStateA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/ConcreteStateB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/ConcreteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteElementA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteElementB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteVisitorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteVisitorB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vistor/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/director/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/director/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +132,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/proxy/cglib/lib" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -89,17 +146,31 @@
       <recent name="abstractFactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mark\demo\design\src\proxy\cglib\lib" />
       <recent name="E:\mark\demo\design" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Client (2)">
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="director.Client" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interpreter.Client" />
       <module name="design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="director.*" />
+          <option name="PATTERN" value="interpreter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.Client" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +179,24 @@
       </method>
     </configuration>
     <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="protoType.Client" />
+      <option name="MAIN_CLASS_NAME" value="mediator.Client" />
       <module name="design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="protoType.*" />
+          <option name="PATTERN" value="mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.Client" />
+      <module name="design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +205,11 @@
       </method>
     </configuration>
     <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory.abs.Client" />
+      <option name="MAIN_CLASS_NAME" value="memento.Client" />
       <module name="design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.abs.*" />
+          <option name="PATTERN" value="memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +218,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory.method.Client" />
+      <option name="MAIN_CLASS_NAME" value="proxy.dynamic.Client" />
       <module name="design" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.method.*" />
+          <option name="PATTERN" value="proxy.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,28 +230,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="builder.Client" />
-      <module name="design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,10 +244,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (4)" />
-        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client (5)" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +265,8 @@
       <workItem from="1585124305762" duration="6211000" />
       <workItem from="1585190222988" duration="2748000" />
       <workItem from="1606475303022" duration="5561000" />
-      <workItem from="1606543312116" duration="6631000" />
+      <workItem from="1606543312116" duration="15990000" />
+      <workItem from="1606729057733" duration="10055000" />
     </task>
     <servers />
   </component>
@@ -224,34 +294,42 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2629" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606547827961" />
-    <state x="2685" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1606567278809">
+    <state x="2685" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1606740929896">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2685" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606567278809" />
+    <state x="2685" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606740929896" />
+    <state x="2577" y="211" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606724793584">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="211" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606724793584" />
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1606480245778">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606480245778" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1606566786681">
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1606739957613">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606566786681" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1606566786681">
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957613" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1606739957612">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606566786681" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1606566786680">
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957612" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1606739957612">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606566786680" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1606566786681">
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957612" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1606739957613">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606566786681" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957613" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1606480229668">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606480229668" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1606726327207">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606726327207" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606567454598">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
