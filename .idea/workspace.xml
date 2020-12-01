@@ -20,84 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4ea4eb3-ed64-42ef-b4f8-387323b5ca8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/command/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommandA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ConcreteCommandB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/EmptyCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ReceiverA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ReceiverB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/SubSystem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/SubSystem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/facade/SubSystem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight/ConcreteFlyweight2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight/Flyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flyweight/UnsharedConcreteFlyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interpreter/AbstractExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interpreter/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interpreter/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interpreter/NonTerminalExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interpreter/TerminalExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/Aggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/ConcreteAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/ConcreteIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/ConcreteColleague1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/ConcreteColleague2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memento/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memento/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memento/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/ConcreteObserver1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/ConcreteObserver2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/CglibObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/asm-commons.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/asm-tree.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/asm.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/cglib/lib/cglib-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/DynamicRealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/DynamicSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/proxy/dynamic/ProxyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/ConcreteStateA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/ConcreteStateB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/template/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/template/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/template/ConcreteClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteElementA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteElementB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteVisitorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/ConcreteVisitorB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/ObjectStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vistor/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/director/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/director/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +189,7 @@
       <workItem from="1585190222988" duration="2748000" />
       <workItem from="1606475303022" duration="5561000" />
       <workItem from="1606543312116" duration="15990000" />
-      <workItem from="1606729057733" duration="10055000" />
+      <workItem from="1606729057733" duration="11333000" />
     </task>
     <servers />
   </component>
@@ -306,22 +229,22 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606480245778" />
-    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1606739957613">
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1606742295516">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957613" />
-    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1606739957612">
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295516" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1606742295515">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957612" />
-    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1606739957612">
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295515" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1606742295515">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957612" />
-    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1606739957613">
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295515" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1606742295516">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606739957613" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295516" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1606480229668">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
