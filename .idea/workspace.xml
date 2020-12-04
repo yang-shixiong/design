@@ -55,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/proxy/cglib/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -69,6 +69,7 @@
       <recent name="abstractFactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\mark\demo\design\src" />
       <recent name="E:\mark\demo\design\src\proxy\cglib\lib" />
       <recent name="E:\mark\demo\design" />
       <recent name="$PROJECT_DIR$/src" />
@@ -189,7 +190,9 @@
       <workItem from="1585190222988" duration="2748000" />
       <workItem from="1606475303022" duration="5561000" />
       <workItem from="1606543312116" duration="15990000" />
-      <workItem from="1606729057733" duration="11333000" />
+      <workItem from="1606729057733" duration="11760000" />
+      <workItem from="1606788368524" duration="5000" />
+      <workItem from="1606809012092" duration="2361000" />
     </task>
     <servers />
   </component>
@@ -225,30 +228,42 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2577" y="211" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606724793584" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1606480245778">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1606811273657">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606480245778" />
-    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1606742295516">
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606811273657" />
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom" timestamp="1606785285069">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295516" />
-    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1606742295515">
+    <state width="1877" height="358" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606785285069" />
+    <state width="1877" height="358" key="GridCell.Tab.0.center" timestamp="1606785285069">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295515" />
-    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1606742295515">
+    <state width="1877" height="358" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606785285069" />
+    <state width="1877" height="358" key="GridCell.Tab.0.left" timestamp="1606785285069">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295515" />
-    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1606742295516">
+    <state width="1877" height="358" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606785285069" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right" timestamp="1606785285069">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606742295516" />
+    <state width="1877" height="358" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606785285069" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1606480229668">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606480229668" />
+    <state x="2601" y="261" width="540" height="524" key="StructurePopup" timestamp="1606811122553">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2601" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606811122553" />
+    <state x="2582" y="223" width="596" height="594" key="find.popup" timestamp="1606811115511">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2582" y="223" width="596" height="594" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606811115511" />
+    <state x="2254" y="130" key="new project wizard" timestamp="1606811284285">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2254" y="130" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606811284285" />
     <state x="2536" y="240" key="run.anything.popup" timestamp="1606726327207">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

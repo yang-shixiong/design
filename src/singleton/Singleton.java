@@ -22,8 +22,8 @@ package singleton;
  */
 public class Singleton {
 
-    // 1. 饿汉式，静态常量
-    private static Singleton INSTANCE = new Singleton();
+    // 1. 饿汉式，静态常量(volatile防止懒汉式加载出现指令重排)
+    private volatile static Singleton INSTANCE = new Singleton();
 
     // 2. 饿汉式，静态代码块
     static {
